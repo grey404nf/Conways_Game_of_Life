@@ -2,7 +2,7 @@
 Conway's Game of Life in Go
 
 ## Usage
-\[\<mouse or keyboard>]: \<function>
+\[\<bottom or key>]: \<function>
 - \[Left Bottom]: Add Cell(s)
 - \[2]: 200*100 px
 - \[4]: 400*200 px
