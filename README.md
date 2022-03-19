@@ -17,7 +17,7 @@ Conway's Game of Life in Go
 - \[F/f]: Show "Spacefiller"
 - \[B/b]: Show "Breeder 1"
 
-## Demos
+## Demo
 - 200*100 px
 ![alt text](https://github.com/grey404nf/Conways_Game_of_Life/blob/main/img/200_100.png)
 - 400*200 px
