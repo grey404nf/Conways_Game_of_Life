@@ -1,6 +1,12 @@
 # Conway's Game of Life
 Conway's Game of Life in Go
 
+## Run
+```
+$ cd src/Conways_Game_of_Life/
+$ go run Conways_Game_of_Life.go
+```
+
 ## Usage
 \[\<bottom or key>]: \<function>
 - \[Left Bottom]: Add Cell(s)
