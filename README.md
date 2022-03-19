@@ -19,15 +19,16 @@ Conway's Game of Life in Go
 
 ## Demos
 - 200*100 px
-
+![alt text](https://github.com/grey404nf/Conways_Game_of_Life/blob/main/img/200_100.png)
 - 400*200 px
-
+![alt text](https://github.com/grey404nf/Conways_Game_of_Life/blob/main/img/400_200.png)
 - 800*400 px
-
+![alt text](https://github.com/grey404nf/Conways_Game_of_Life/blob/main/img/800_400.png)
 - Show "Gilder Gun"
-
+![alt text](https://github.com/grey404nf/Conways_Game_of_Life/blob/main/img/glider_gun.png)
 - Show "Centinal"
-
+![alt text](https://github.com/grey404nf/Conways_Game_of_Life/blob/main/img/centinal.png)
 - Show "Spacefiller"
-
+![alt text](https://github.com/grey404nf/Conways_Game_of_Life/blob/main/img/spacefiller.png)
 - Show "Breeder 1"
+![alt text](https://github.com/grey404nf/Conways_Game_of_Life/blob/main/img/breeder_1.png)
